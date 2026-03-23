@@ -23,7 +23,7 @@ public class Calc {
         System.out.println("Digite a sua altura: ");
         double alturaDigitada = sc.nextDouble();
 
-        // Aqui a mágica acontece! O gerente CHAMA a função e entrega os dados.
+       
         double imcFinal = calcularIMC(pesoDigitado, alturaDigitada);
 
         System.out.println("seu IMC é: " + imcFinal);
