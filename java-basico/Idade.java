@@ -12,7 +12,7 @@ public class Idade {
 
         
         if (triagem < 0) {
-            System.out.println("O valor inválido é entendido que você recusou o teste, você será multado em até 3.000 R$ e sua CNH será suspensa por 12 meses, além da retenção do veículo conforme o (Art. 165-A)");
+            System.out.println("você será multado em até 3.000 R$ e sua CNH será suspensa por 12 meses, além da retenção do veículo conforme o (Art. 165-A)");
             
         
         } else if (triagem <= 0.04) {
