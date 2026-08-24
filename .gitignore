@@ -1,0 +1,9 @@
+# Saídas de compilação locais
+*.class
+.build/
+.build-check/
+
+# Configurações e arquivos gerados por IDEs
+.vscode/
+.idea/
+*.iml
