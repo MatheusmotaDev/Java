@@ -21,6 +21,7 @@ public class Placa{
 
         System.out.println("A situação da placa é: " + verificarplaca);
         
+        sc.close();
         
     }
 }

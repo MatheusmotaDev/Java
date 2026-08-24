@@ -28,5 +28,6 @@ public class Banco{
 
         System.out.println(analise);
         
+        sc.close();
     }
 }

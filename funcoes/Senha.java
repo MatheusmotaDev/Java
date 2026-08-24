@@ -26,9 +26,7 @@ public class Senha {
         } else{
             System.out.println("a senha deve ter pelo menos 8 caracteres");
         }
-        
-
-
+        sc.close();
 
     }
 }

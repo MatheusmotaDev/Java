@@ -23,7 +23,7 @@ public class Asfalto {
         } else{
             System.out.println("Perigo: Risco de danos a veículos. Solicitar reparo imediato!");
         }
-
+        sc.close();
 
     }
 }

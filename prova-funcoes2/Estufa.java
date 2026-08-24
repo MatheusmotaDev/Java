@@ -23,5 +23,6 @@ public class Estufa {
 
         System.out.println(calculo);
         
+        sc.close();
     }
 }

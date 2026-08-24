@@ -22,9 +22,7 @@ public class Frota {
         int vans = calcularVansLotadas(pessoas);
 
         System.out.println("a quantidade de vans lotadas foram: " + vans);
-
-        
-
+        sc.close();
 
     }
 }

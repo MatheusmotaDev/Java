@@ -28,6 +28,6 @@ public class Trafego {
 
         System.out.println("Valor a pagar: R$ " + calcular);
         
-
+        sc.close();
     }
 }

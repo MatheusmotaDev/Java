@@ -27,9 +27,9 @@ public class Cafeteria {
 
 
         System.out.println((fazerCafePadrao()));
-
-
         
+        sc.close();
+
 
     }
 }

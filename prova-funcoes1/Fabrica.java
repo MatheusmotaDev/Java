@@ -25,7 +25,8 @@ public class Fabrica {
         System.out.println("a quantidade de caixas completas foi: " + caixa);
 
 
-        
+
+        sc.close();
 
     }
 }

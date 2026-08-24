@@ -27,9 +27,7 @@ public class Pomodoro{
         int total = calcularCiclos(minutos);
 
         System.out.println("Voce concluiu " + total + " ciclos de foco total!");
-        
-
-
+        sc.close();
 
     }
 }

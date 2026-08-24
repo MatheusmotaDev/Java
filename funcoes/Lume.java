@@ -65,6 +65,7 @@ public class Lume {
 
 
         
-        
+        sc.close();
+
     }
 }

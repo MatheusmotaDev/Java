@@ -30,7 +30,7 @@ public class Emprestimo {
         } else {
             System.out.println("negado");
         }
-        
+        sc.close();
 
     }
 }

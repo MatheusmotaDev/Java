@@ -17,5 +17,6 @@ public class Arquivos {
 
         System.out.println(calculo);
         
+        sc.close();
     }
 }

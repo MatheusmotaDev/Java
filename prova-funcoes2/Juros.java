@@ -22,5 +22,6 @@ public class Juros{
 
         System.out.println(calculo);
         
+        sc.close();
     }
 }
