@@ -39,6 +39,6 @@ public class Busca {
 
     System.out.println(sera);
 
-        
+    sc.close();    
     }
 }

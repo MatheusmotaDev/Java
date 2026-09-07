@@ -43,6 +43,6 @@ public class SomaBasica {
 
 
 
+        sc.close();
     }
 }
-

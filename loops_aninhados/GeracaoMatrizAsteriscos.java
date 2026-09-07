@@ -23,6 +23,7 @@ public class GeracaoMatrizAsteriscos {
             System.out.println();
         }
 
+        sc.close();
     }
 }
 
