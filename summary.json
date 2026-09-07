@@ -1,0 +1,407 @@
+﻿[
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Cafeteria.java",
+        "Name":  "Cafeteria.java",
+        "Msg":  "Qual Ã© seu nome? "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Calc.java",
+        "Name":  "Calc.java",
+        "Msg":  "Digite o seu peso: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Carteira.java",
+        "Name":  "Carteira.java",
+        "Msg":  "Bem vindo ao conversor do LUME! "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Cavalo.java",
+        "Name":  "Cavalo.java",
+        "Msg":  "Digite a massa do cavalo: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Divisao.java",
+        "Name":  "Divisao.java",
+        "Msg":  "Digite a quantidade de ovos: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Email.java",
+        "Name":  "Email.java",
+        "Msg":  "Bem vindo ao sistema corporativo lume! "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Emprestimo.java",
+        "Name":  "Emprestimo.java",
+        "Msg":  "OlÃ¡, bem vindo ao sistema de emprestimos,"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Frota.java",
+        "Name":  "Frota.java",
+        "Msg":  "Digite a quantidade de pessoas: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Lume.java",
+        "Name":  "Lume.java",
+        "Msg":  "////////////////////////////"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Mensagem.java",
+        "Name":  "Mensagem.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Pomodoro.java",
+        "Name":  "Pomodoro.java",
+        "Msg":  "Digite a quantidade de minutos que voce estudou:"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Senha.java",
+        "Name":  "Senha.java",
+        "Msg":  "Digite sua senha: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Taxa.java",
+        "Name":  "Taxa.java",
+        "Msg":  "Digite o valor da peÃ§a: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\funcoes\\Venda.java",
+        "Name":  "Venda.java",
+        "Msg":  "Por favor, informe o custo do produto: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\java-basico\\Asfalto.java",
+        "Name":  "Asfalto.java",
+        "Msg":  "Bem vindo ao sensor de asfalto inteligente!"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\java-basico\\Idade.java",
+        "Name":  "Idade.java",
+        "Msg":  "Bem vindo ao sistema de bafometro do detran: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\java-basico\\Main.java",
+        "Name":  "Main.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio0.java",
+        "Name":  "Exercicio0.java",
+        "Msg":  "gOL"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio1.java",
+        "Name":  "Exercicio1.java",
+        "Msg":  "Senha liberada"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio10.java",
+        "Name":  "Exercicio10.java",
+        "Msg":  "digite um valor maior que zero: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio11.java",
+        "Name":  "Exercicio11.java",
+        "Msg":  "digite o valor do seu aporte inicial: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio12.java",
+        "Name":  "Exercicio12.java",
+        "Msg":  "1 - Analisar dados"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio13.java",
+        "Name":  "Exercicio13.java",
+        "Msg":  "digite a idade do funcionario: (0 a 120) "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio14.java",
+        "Name":  "Exercicio14.java",
+        "Msg":  "digite uma idade ( ou um numero negativo para encerrar): "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio15.java",
+        "Name":  "Exercicio15.java",
+        "Msg":  "digite um numero inteiro: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio2.java",
+        "Name":  "Exercicio2.java",
+        "Msg":  "quantas caixas quer cadastrar: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio3.java",
+        "Name":  "Exercicio3.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio4.java",
+        "Name":  "Exercicio4.java",
+        "Msg":  "digite o numero base: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio5.java",
+        "Name":  "Exercicio5.java",
+        "Msg":  "digite a idade do usuario: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio6.java",
+        "Name":  "Exercicio6.java",
+        "Msg":  "quantos pacotes serÃ£o processados?:  "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio7.java",
+        "Name":  "Exercicio7.java",
+        "Msg":  "digite o valor do item (ou 0 para fechar a conta): "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio8.java",
+        "Name":  "Exercicio8.java",
+        "Msg":  "-----------"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Exercicio9.java",
+        "Name":  "Exercicio9.java",
+        "Msg":  "digite o valor da transaÃ§Ã£o (positivo para entrada, negativo para sÃ¡ida"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\Tabuada.java",
+        "Name":  "Tabuada.java",
+        "Msg":  "-----------"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\Loops\\While.java",
+        "Name":  "While.java",
+        "Msg":  "Bem vindo!"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\loops_aninhados\\Questao1.java",
+        "Name":  "Questao1.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Mine.java",
+        "Name":  "Mine.java",
+        "Msg":  "--------"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Oi.java",
+        "Name":  "Oi.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Questao1.java",
+        "Name":  "Questao1.java",
+        "Msg":  "--------"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Questao2.java",
+        "Name":  "Questao2.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Questao3.java",
+        "Name":  "Questao3.java",
+        "Msg":  "--------"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Questao4.java",
+        "Name":  "Questao4.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Questao5.java",
+        "Name":  "Questao5.java",
+        "Msg":  "preencha os IDs: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Questao6.java",
+        "Name":  "Questao6.java",
+        "Msg":  "preencha as 5 gavetas: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Questao7.java",
+        "Name":  "Questao7.java",
+        "Msg":  "preencha os indices: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Questao8.java",
+        "Name":  "Questao8.java",
+        "Msg":  "empate"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Runner.java",
+        "Name":  "Runner.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Seq.java",
+        "Name":  "Seq.java",
+        "Msg":  "valor encontrado"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Teste.java",
+        "Name":  "Teste.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\matriz_vetor\\Vetor.java",
+        "Name":  "Vetor.java",
+        "Msg":  "Digite os valores do seu vetor: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-basica1\\Atividade1.java",
+        "Name":  "Atividade1.java",
+        "Msg":  "Bem vindo a nossa loja!"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-basica1\\Atividade2.java",
+        "Name":  "Atividade2.java",
+        "Msg":  "Informe a temperatura ambiente: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-basica1\\Atividade3.java",
+        "Name":  "Atividade3.java",
+        "Msg":  "Jogador bronze"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-basica1\\Atividade4.java",
+        "Name":  "Atividade4.java",
+        "Msg":  "SISTEMA DE AVALIAÃ‡ÃƒO DE ALUNO"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes1\\Banco.java",
+        "Name":  "Banco.java",
+        "Msg":  "digite o valor da transacao: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes1\\Fabrica.java",
+        "Name":  "Fabrica.java",
+        "Msg":  "Digite quantidade de produtos: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes1\\Par.java",
+        "Name":  "Par.java",
+        "Msg":  "digite um numero: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes1\\Placa.java",
+        "Name":  "Placa.java",
+        "Msg":  "digite a sua placa: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes1\\Trafego.java",
+        "Name":  "Trafego.java",
+        "Msg":  "digite a sua velocidade"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes2\\Arquivos.java",
+        "Name":  "Arquivos.java",
+        "Msg":  "digite ai"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes2\\Empresa.java",
+        "Name":  "Empresa.java",
+        "Msg":  "digite  a quantidade de paredes"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes2\\Estufa.java",
+        "Name":  "Estufa.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes2\\Juros.java",
+        "Name":  "Juros.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova-funcoes2\\Sistema.java",
+        "Name":  "Sistema.java",
+        "Msg":  "digite sua idade"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova_loops1\\Questao1.java",
+        "Name":  "Questao1.java",
+        "Msg":  "\\n========== CARDÃPIO =========="
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova_loops1\\Questao2.java",
+        "Name":  "Questao2.java",
+        "Msg":  "Ã‰ perfeito"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova_loops1\\Questao3.java",
+        "Name":  "Questao3.java",
+        "Msg":  "digite a temperatura: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova_loops2\\Questao1.java",
+        "Name":  "Questao1.java",
+        "Msg":  "1 - Candidato Bolsonaro"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova_loops2\\Questao2.java",
+        "Name":  "Questao2.java",
+        "Msg":  "Acesso liberado"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova_loops2\\Questao3.java",
+        "Name":  "Questao3.java",
+        "Msg":  "Digite o numero base"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova_loops2\\Questao4.java",
+        "Name":  "Questao4.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\prova_loops2\\Questao5.java",
+        "Name":  "Questao5.java",
+        "Msg":  "digite a quantidade de lote: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\rascunho-daniel\\Aula.java",
+        "Name":  "Aula.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\rascunho-daniel\\rascunhomicael.java",
+        "Name":  "rascunhomicael.java",
+        "Msg":  "digite sua idade"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\recursao\\Ad.java",
+        "Name":  "Ad.java",
+        "Msg":  "insira um nÃºmero: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\recursao\\Fib.java",
+        "Name":  "Fib.java",
+        "Msg":  "Digite um nÃºmero: "
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\recursao\\Fracao.java",
+        "Name":  "Fracao.java",
+        "Msg":  "digite um nÃºmero"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\recursao\\Potenciacao.java",
+        "Name":  "Potenciacao.java",
+        "Msg":  "digite a base"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\recursao\\Questao1.java",
+        "Name":  "Questao1.java",
+        "Msg":  ""
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\recursao\\Recursao.java",
+        "Name":  "Recursao.java",
+        "Msg":  "digite um nÃºmero"
+    },
+    {
+        "Path":  "C:\\Users\\Matheus\\Documents\\Estudos\\Java\\recursao\\Trib.java",
+        "Name":  "Trib.java",
+        "Msg":  "TRIBONACCI! ULALA"
+    }
+]
