@@ -1,3 +1,5 @@
+package matriz_vetor;
+
 import java.util.Scanner;
 
 public class MatrizOi {
@@ -25,6 +27,7 @@ public class MatrizOi {
         }
 
         imprimirMatriz(bla);
+        sc.close();
     }
 }
 

@@ -35,7 +35,7 @@ public class VetorGavetas {
         System.out.println("---------");
         System.out.println("Os números pares da gaveta foram:");
          buscarPares(vetor);
-
+         sc.close();
     }
     
 }

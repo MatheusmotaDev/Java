@@ -37,7 +37,7 @@ public class VetorEmpate {
 
 
         comparar(A, B);
-
+        sc.close();
     }
 }
 

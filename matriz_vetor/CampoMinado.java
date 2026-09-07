@@ -1,3 +1,5 @@
+package matriz_vetor;
+
 import java.util.Scanner;
 
 public class CampoMinado {
@@ -32,7 +34,7 @@ public class CampoMinado {
 
 
 
-        
+        sc.close();
     }
 }
 

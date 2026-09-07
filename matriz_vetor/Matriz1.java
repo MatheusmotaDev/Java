@@ -31,9 +31,7 @@ public class Matriz1 {
        
         System.out.println("--------");
 
-
-
-
+        sc.close();
     }
 }
 

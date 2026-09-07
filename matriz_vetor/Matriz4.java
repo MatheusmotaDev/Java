@@ -29,7 +29,7 @@ public class Matriz4 {
 
 
             System.out.println("total de saques: " + contagemsaque);
-
+            sc.close();
     }
 }
 

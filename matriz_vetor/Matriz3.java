@@ -31,6 +31,7 @@ public class Matriz3 {
 
         System.out.println("--------");
         imprimirMatriz(bla);
+        sc.close();
     }
 }
 

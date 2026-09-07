@@ -38,8 +38,7 @@ public class VetorIDs {
             System.out.println("cliente não encontrado");
         }
 
-
-
+        sc.close();
     }
 }
 

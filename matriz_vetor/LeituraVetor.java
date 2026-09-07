@@ -1,3 +1,5 @@
+package matriz_vetor;
+
 import java.util.Scanner;
 
 public class LeituraVetor {
@@ -37,9 +39,6 @@ public class LeituraVetor {
 
 
         
-
-
-        
+        sc.close();
     }
 }
-

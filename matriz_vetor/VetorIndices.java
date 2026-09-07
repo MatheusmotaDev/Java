@@ -29,8 +29,7 @@ public class VetorIndices {
 
         System.out.println("------------");
         invertido(miau);
-
-
+        sc.close();
     }
 }
 

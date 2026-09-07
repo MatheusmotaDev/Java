@@ -23,8 +23,7 @@ public class Matriz2 {
         }
 
         System.out.println("Saldo final = " + saldototal);
-
-
+        sc.close();
     }
 
 }   
