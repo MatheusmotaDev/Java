@@ -20,7 +20,7 @@ public class BafometroFuncao {
         boolean verificar = verificarMaioridade(i);
 
         System.out.println(verificar);
-        
+        s.close();
     }
 }
 

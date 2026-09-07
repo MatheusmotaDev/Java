@@ -16,8 +16,7 @@ public class TabuadaLoop {
              System.out.println(base + " X " + i + " = " + multiplicar);
         }
 
-       
-
+        sc.close();
     }
 }
 

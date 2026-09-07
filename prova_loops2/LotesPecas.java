@@ -29,8 +29,7 @@ public class LotesPecas {
 
         System.out.println("Peças aprovadas: " + aprovado);
         System.out.println("Peças reprovadas: " + reprovado);
-       
-
+        sc.close();
     }
 }
 

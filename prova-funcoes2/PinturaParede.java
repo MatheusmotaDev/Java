@@ -17,8 +17,7 @@ public class PinturaParede {
         int calculo = metrosQuadrados(parede);
 
         System.out.println(calculo);
-
-        
+        sc.close();
     }
 }
 

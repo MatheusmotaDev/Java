@@ -33,8 +33,7 @@ public class Urna {
 
         System.out.println("votos do bolsonaro: " + bolsonaro);
         System.out.println("votos do lula: " + lula);
-
-
+        sc.close();
     }
 }
 

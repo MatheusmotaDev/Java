@@ -28,9 +28,7 @@ public class MaiorMenorPeso {
 
         System.out.println("mais pesada: " + pesado);
         System.out.println("mais leve: " + leve);
-
-
-        
+        sc.close();
     }
 }
 

@@ -22,6 +22,7 @@ public class NumeroPerfeito {
         System.out.println("nao é perfeito");
      }
 
+     sc.close();
     }
 }
 

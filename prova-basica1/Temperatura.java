@@ -20,11 +20,6 @@ public class Temperatura {
         } else if(temperatura > 35.0){
             System.out.println("Calor extremo!");
         }
-        }
-        
-
-
+        sc.close();
     }
-
-
-
+}
