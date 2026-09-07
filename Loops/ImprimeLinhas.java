@@ -30,7 +30,7 @@ public class ImprimeLinhas {
             System.out.println("acesso bloqueado");
         }
 
-        
+        sc.close();
     }
 }
 

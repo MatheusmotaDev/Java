@@ -18,7 +18,7 @@ public class IdadeFuncionario {
 
         System.out.println("idade cadastrada com sucesso! " +  " idade: ");
         System.out.println(idade);
-        
+        sc.close();
     }
 
         

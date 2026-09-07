@@ -23,7 +23,7 @@ public class Pacotes {
         }
 
         System.out.println("o pico máximo registrado foi: " + maiorPico);
-        
+        sc.close();
     }
 }
 

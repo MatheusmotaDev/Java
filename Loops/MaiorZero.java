@@ -19,7 +19,7 @@ public class MaiorZero {
         }
 
         System.out.println("valor: " + acumulador);
-
+        sc.close();
     }
 }
 

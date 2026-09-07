@@ -16,6 +16,7 @@ public class SenhaLoop {
         }
 
         System.out.println("Senha liberada");
+        sc.close();
     }
 }
 

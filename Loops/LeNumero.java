@@ -28,11 +28,8 @@ public class LeNumero {
                 System.out.println("o número NÃO é primo");
             }
 
-
+        sc.close();
     }
+}
         
-    }
-
-
-
 

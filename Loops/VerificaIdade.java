@@ -18,6 +18,7 @@ public class VerificaIdade {
         }
         
         System.out.println("Cadastro liberado");
+        sc.close();
     }
 }
 

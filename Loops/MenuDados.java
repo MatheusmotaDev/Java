@@ -32,7 +32,7 @@ public class MenuDados {
         }
 
         System.out.println("Terminal encerrado com sucesso");
-
+        sc.close();
     }
 }
 

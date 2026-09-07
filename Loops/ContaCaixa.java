@@ -24,6 +24,7 @@ public class ContaCaixa {
         double ticketMedio = (somaTotal / quantidadeItens);
         System.out.printf("Total a pagar: %.2f%n", somaTotal);
         System.out.printf("Ticket médio: %.2f%n", ticketMedio);
+        sc.close();
     }
 }
 

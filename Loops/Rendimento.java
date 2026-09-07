@@ -20,7 +20,7 @@ public class Rendimento {
             aporteInicial = aporteInicial + (aporteInicial * (taxaMensal /100));
             System.out.println(aporteInicial);
         }
-        
+        sc.close();
     }
 }
 

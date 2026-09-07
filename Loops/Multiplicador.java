@@ -18,7 +18,7 @@ public class Multiplicador {
             System.out.println(base + " x " + i + " = " + multi);
 
         }
-        
+        sc.close();
     }
 }
 

@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.Scanner;
 
 public class ExemploWhile {
@@ -35,7 +37,7 @@ public class ExemploWhile {
             
         }
 
-
+        sc.close();
     }
 }
 

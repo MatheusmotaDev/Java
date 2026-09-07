@@ -24,7 +24,7 @@ public class Transacoes {
 
             System.out.println("total de entradas: " + totalEntradas);
             System.out.println("total de saidas: " + totalSaidas);
-
+            sc.close();
     }
 }
 

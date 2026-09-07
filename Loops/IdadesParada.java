@@ -21,7 +21,7 @@ public class IdadesParada {
         }
 
         System.out.println("total de pessoas maiories de idade: " + maioresDeIdade);
-        
+        sc.close();
     }
 }
 
