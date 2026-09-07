@@ -31,11 +31,6 @@ public class EmailLume {
 
         System.out.println("Seu email novo é: " + gerado);
 
-        
-
-
-
+        sc.close();
     }
 }
-
-

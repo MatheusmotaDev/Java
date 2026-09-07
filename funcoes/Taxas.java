@@ -25,9 +25,7 @@ public class Taxas {
 
 
         System.out.println("Voce vai pagar: " + calculo);
-        
-
-
+        sc.close();
     }
 }
 

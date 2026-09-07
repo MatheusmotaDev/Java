@@ -26,10 +26,7 @@ public class MoedasLume {
         double converta = converterMoeda(dinheiroDigitado);
 
         System.out.println("A cotação atual é: " + converta);
-        
-
-
-
+        sc.close();
     }
 }
 

@@ -27,9 +27,7 @@ public class DivisaoOvos {
         System.out.println("o total de caixas que foram necessários para guardar a quantidade de " + ovos + " ovos foi: " + caixa);
         System.out.println("a quantidade de ovos que sobrou e não coube nas caixas foram: " + calcularSobra(ovos));
 
-
-        
-
+        sc.close();
     }
 }
 

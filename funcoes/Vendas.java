@@ -28,7 +28,7 @@ public class Vendas {
         double soma = calcularPrecoVenda(custodigitado, margemdigitada);
 
         System.out.println("o total foi: " + soma);
-        
+        sc.close();
     }
 }
 

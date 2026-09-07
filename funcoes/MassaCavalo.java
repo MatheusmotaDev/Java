@@ -28,9 +28,7 @@ public class MassaCavalo {
 
        System.out.println("A potencia foi: " + potencia);
 
-       
-
-
+       sc.close();
     }
 
 
