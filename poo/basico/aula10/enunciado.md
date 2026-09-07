@@ -1,0 +1,1 @@
+Exercício 02 - Crie uma classe Livro que represente do dados básicos de um livro, sem se preocupar com a sua finalidade.

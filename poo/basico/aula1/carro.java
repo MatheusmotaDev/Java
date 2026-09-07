@@ -1,4 +1,4 @@
-package poo.aula1;
+package poo.basico.aula1;
 
 public class carro {
     
